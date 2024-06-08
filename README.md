@@ -6,9 +6,9 @@ JS-CredHunter is a specialized command-line tool crafted to empower penetration 
 **Credentials Enumeration:** Scans for a wide range of credentials including usernames, passwords, access tokens, and secret keys that might be exposed in JavaScript code.
 
 ## Usage:
-Create a folder containing all the js files.
-Run the JS-CredHunter.py script with the path to the URL file as an argument. Example: python3 js-CredHunter.py <directory_path>
-View the matched URLs grouped by keyword.
+* Create a folder containing all the js files.
+* Run the JS-CredHunter.py script with the path to the URL file as an argument. Example: python3 js-CredHunter.py <directory_path>
+* View the matched URLs grouped by keyword.
 
 ## Sample:
 ![image](https://github.com/AS-AbdulSamad/JS-CredHunter/assets/116205223/841bb9e2-6697-45a4-9796-bd8b5fb7d96e)
