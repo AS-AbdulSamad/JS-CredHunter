@@ -7,7 +7,7 @@ JS-CredHunter is a specialized command-line tool crafted to empower penetration 
 
 ## Usage:
 * Create a folder containing all the js files.
-* Run the JS-CredHunter.py script with the path to the URL file as an argument. Example: python3 js-CredHunter.py <directory_path>
+* Run the JS-CredHunter.py script with the path to the URL file as an argument. Example: `python3 js-CredHunter.py <directory_path>`
 * View the matched URLs grouped by keyword.
 
 ## Sample:
